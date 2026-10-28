@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "score": 54,
+  "strict": 54,
+  "scorer": "v3.1-corrected",
+  "before": 39,
+  "changes": [
+    "section padding on phones 140px",
+    "heading on dark sections #cec4fb, as on the original (4 of 7 sections)",
+    "text on light sections #ffffff, as on the original (4 of 4 sections)",
+    "heading on light sections #ffffff, as on the original (7 of 9 sections)",
+    "background on light sections #000000, as on the original (9 of 9 sections)",
+    "/about: \"OurFounders\": 2 cards per row, as on the original",
+    "/about: \"OurFounders\": 2 cards per row, as on the original",
+    "/about: \"Our Founders\": its background #000000, as on the original",
+    "/about: \"Our Founders\": 2 cards per row, as on the original",
+    "/: \"You're ready. We're ready. Let's begin.\" set at the h2 size, as on the original",
+    "/about: \"Ready to step into the field?\" set at the h2 size, as on the original",
+    "/: section 4 image crop 1:1",
+    "/: section 8 image crop 1:1",
+    "/: section 5 \"pro • sper\" recreated as a custom component",
+    "/: section 8 \"THE SCIENCE\" recreated as a custom component",
+    "/: section 12 \"PARTNERS\" recreated as a custom component",
+    "/about: section 1 \"Built by practitioners, for practitioner\" recreated as a custom component",
+    "/form-influencer1: section 1 \"Bring your people into practice\" recreated as a custom component"
+  ],
+  "strictBefore": 39,
+  "withoutComponents": 52,
+  "withComponents": 54,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 62,
+      "strict": 62,
+      "before": 51,
+      "strictBefore": 51,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Present",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 62,
+      "strict": 59,
+      "corrections": [
+        "Section 3 (a picture alone on a phone) is the picture of section 6, which holds it with its words.",
+        "Section 12: columns counted on screen only (6 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 57,
+      "strictBefore": 54,
+      "image": "thumb-home-m.jpg",
+      "differs": [
+        "Heading",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/about",
+      "device": "desktop",
+      "score": 64,
+      "strict": 64,
+      "before": 36,
+      "strictBefore": 36,
+      "image": "thumb-about-d.jpg",
+      "differs": [
+        "Heading 1 size",
+        "Heading",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/about",
+      "device": "phone",
+      "score": 61,
+      "strict": 61,
+      "before": 42,
+      "strictBefore": 42,
+      "image": "thumb-about-m.jpg",
+      "differs": [
+        "Heading 1 size",
+        "Heading",
+        "Text"
+      ]
+    },
+    {
+      "path": "/contact",
+      "device": "desktop",
+      "score": 53,
+      "strict": 53,
+      "before": 41,
+      "strictBefore": 41,
+      "image": "thumb-contact-d.jpg",
+      "differs": [
+        "Heading",
+        "Columns",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/contact",
+      "device": "phone",
+      "score": 49,
+      "strict": 49,
+      "before": 34,
+      "strictBefore": 34,
+      "image": "thumb-contact-m.jpg",
+      "differs": [
+        "Heading",
+        "Columns",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/form-50",
+      "device": "desktop",
+      "score": 52,
+      "strict": 52,
+      "before": 40,
+      "strictBefore": 40,
+      "image": "thumb-form-50-d.jpg",
+      "differs": [
+        "Heading",
+        "Columns",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/form-50",
+      "device": "phone",
+      "score": 49,
+      "strict": 49,
+      "before": 33,
+      "strictBefore": 33,
+      "image": "thumb-form-50-m.jpg",
+      "differs": [
+        "Heading",
+        "Columns",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/form-influencer1",
+      "device": "desktop",
+      "score": 71,
+      "strict": 71,
+      "before": 40,
+      "strictBefore": 40,
+      "image": "thumb-form-influencer1-d.jpg",
+      "differs": [
+        "Present",
+        "Heading 1: present",
+        "Button corners"
+      ]
+    },
+    {
+      "path": "/form-influencer1",
+      "device": "desktop",
+      "score": 42,
+      "strict": 42,
+      "before": 30,
+      "strictBefore": 30,
+      "differs": [
+        "Body text size",
+        "Heading",
+        "Text"
+      ]
+    },
+    {
+      "path": "/form-prelaunch",
+      "device": "desktop",
+      "score": 40,
+      "strict": 40,
+      "before": 37,
+      "strictBefore": 37,
+      "image": "thumb-form-prelaunch-d.jpg",
+      "differs": [
+        "Present",
+        "Heading 1: present",
+        "Button corners"
+      ]
+    },
+    {
+      "path": "/form-prelaunch",
+      "device": "phone",
+      "score": 45,
+      "strict": 45,
+      "before": 34,
+      "strictBefore": 34,
+      "image": "thumb-form-prelaunch-m.jpg",
+      "differs": [
+        "Heading",
+        "Columns",
+        "Heading 1: present"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "pg_68wjqzeyng",
+  "title": "Reach Out We’re Listening",
+  "slug": "contact",
+  "seo": {
+    "title": "Prosper - Prayers and Intentions App",
+    "description": "Prosper blends energetic art, neural audio and AI guidance into a sacred space where you align will, elevate consciousness and practise intention daily.",
+    "image": "media/2026/10/vvfycatnvewohjvbgcubs70m4-8aqh.webp"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_6xcqdpc87c",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_64vnefer6k",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CONNECT WITH US"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_xmepqjg8ht",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Reach Out We’re Listening",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Reach Out We're Listening",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Reach Out We’re Listening",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_w7z30jqmr7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We keep our lines open for resonance."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Use the form below to send us a thought,"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "a blessing, or a nudge. However small, it matters"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We keep our lines open for resonance."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Use the form below to send us a thought, a blessing, or a nudge."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "However small, it matters"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_05ygvkq4cw",
+          "type": "form",
+          "v": 1,
+          "fields": {
+            "form": {
+              "id": "frm_rg2mgt1cxv",
+              "name": "Contact form",
+              "fields": [
+                {
+                  "name": "first_name_first_name",
+                  "label": "First name* First name",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "Jane"
+                },
+                {
+                  "name": "last_name_last_name",
+                  "label": "Last Name* Last Name",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "Smith"
+                },
+                {
+                  "name": "email_email_email",
+                  "label": "Email* Email* Email",
+                  "required": true,
+                  "type": "email",
+                  "placeholder": "jane@prosper.love"
+                },
+                {
+                  "name": "message_message",
+                  "label": "Message Message",
+                  "required": true,
+                  "type": "textarea",
+                  "placeholder": "Type your message..."
+                }
+              ],
+              "submitLabel": "SUBMIT",
+              "success": {
+                "type": "message",
+                "message": "Thank you! We'll be in touch soon."
+              },
+              "notifyOwner": true
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

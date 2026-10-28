@@ -1,39 +1,463 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
-  "title": "Prosper",
+  "title": "Sacred Space for Intention & Transformation",
+  "tagline": "Prosper helps you find and create intentions that truly resonate with who you are and how you want to participate in the beautiful game of being human.",
+  "logo": {
+    "src": "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png",
+    "alt": "Sacred Space for Intention & Transformation",
+    "width": 2048,
+    "height": 555
+  },
+  "favicon": "media/2026/10/yquthom1zgx8ffnbiiz7k0sgts-ekwa.png",
   "nav": [
     {
       "type": "page",
-      "page": "pg_z6khzrkrpp",
-      "label": "Home"
+      "page": "pg_6z6ak93gma",
+      "label": "THE FIELD"
+    },
+    {
+      "type": "page",
+      "page": "pg_cyb6fjw0da",
+      "label": "SCIENCE"
+    },
+    {
+      "type": "page",
+      "page": "pg_1py619tnm2",
+      "label": "ABOUT"
+    },
+    {
+      "type": "page",
+      "page": "pg_zxy9xykaqx",
+      "label": "JOIN THE FIELD"
     }
   ],
   "header": {
     "variant": "classic-left",
     "sticky": false,
     "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_97fbdahw7j",
+    "id": "sec_rj3kkb1v6h",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
           12
         ]
-      },
-      "align": "center"
+      }
     },
     "style": {
-      "colorTheme": "light",
-      "padding": {
-        "d": "md"
-      }
+      "colorTheme": "light"
     },
     "blocks": [
       {
-        "id": "blk_s4jy2s8kkm",
+        "id": "blk_1n7k3hry2w",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/qn4hrw3ggepov44dfpx1mmvobg-eqs9.jpg",
+            "alt": "",
+            "width": 2048,
+            "height": 672,
+            "mediaId": "med_eqs93h6se1"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_h4g65fvphg",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png",
+            "alt": "",
+            "width": 2048,
+            "height": 555,
+            "mediaId": "med_q6s759qcnf"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_et2nykt7ng",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Prosper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (from Latin):"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "pro",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " – in favor of, in accord with"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "sper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " - wish, hope, aspiration"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\""
+                  },
+                  {
+                    "type": "text",
+                    "text": "To prosper\" is for life to accord with your wishes and hopes.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Latest news, updates & announcements"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_tadjh2f623",
+        "type": "newsletter",
+        "v": 1,
+        "fields": {
+          "askName": false,
+          "placeholder": "Enter Your Email....",
+          "buttonLabel": "SUBSCRIBE",
+          "successMessage": "Almost there — check your inbox to confirm your subscription."
+        },
+        "variant": "stacked"
+      },
+      {
+        "id": "blk_fb0d5zhcxn",
         "type": "text",
         "v": 1,
         "fields": {
@@ -45,15 +469,1691 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "Prosper"
+                    "text": "© 2026 HELPFUL LLC"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
                   }
                 ]
               }
             ]
           }
         }
+      },
+      {
+        "id": "blk_406mpc9yqd",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/qn4hrw3ggepov44dfpx1mmvobg-eqs9.jpg",
+            "alt": "",
+            "width": 2048,
+            "height": 672,
+            "mediaId": "med_eqs93h6se1"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_z0z21hgv66",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png",
+            "alt": "",
+            "width": 2048,
+            "height": 555,
+            "mediaId": "med_q6s759qcnf"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_4esae8a63s",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Prosper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (from Latin):"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "pro",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " – in favor of, in accord with"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "sper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " - wish, hope, aspiration"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\""
+                  },
+                  {
+                    "type": "text",
+                    "text": "To prosper\" is for life to accord with your wishes and hopes.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Latest news, updates & announcements"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_fbwskvbwr6",
+        "type": "newsletter",
+        "v": 1,
+        "fields": {
+          "askName": false,
+          "placeholder": "Enter Your Email....",
+          "buttonLabel": "SUBSCRIBE",
+          "successMessage": "Almost there — check your inbox to confirm your subscription."
+        },
+        "variant": "stacked"
+      },
+      {
+        "id": "blk_ww8rsc36at",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© 2026 HELPFUL LLC"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_8hkb4wnd7g",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/qn4hrw3ggepov44dfpx1mmvobg-eqs9.jpg",
+            "alt": "",
+            "width": 2048,
+            "height": 672,
+            "mediaId": "med_eqs93h6se1"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_8334a0h99h",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png",
+            "alt": "",
+            "width": 2048,
+            "height": 555,
+            "mediaId": "med_q6s759qcnf"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_vkrabscj0s",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Prosper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (from Latin):"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "pro",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " – in favor of, in accord with"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "sper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " - wish, hope, aspiration"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\""
+                  },
+                  {
+                    "type": "text",
+                    "text": "To prosper\" is for life to accord with your wishes and hopes.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Latest news, updates & announcements"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_5gpwk3t1y0",
+        "type": "newsletter",
+        "v": 1,
+        "fields": {
+          "askName": false,
+          "placeholder": "Enter Your Email....",
+          "buttonLabel": "SUBSCRIBE",
+          "successMessage": "Almost there — check your inbox to confirm your subscription."
+        },
+        "variant": "stacked"
+      },
+      {
+        "id": "blk_19xjg82j3q",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© 2026 HELPFUL LLC"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_wj7c0eaepw",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/qn4hrw3ggepov44dfpx1mmvobg-eqs9.jpg",
+            "alt": "",
+            "width": 2048,
+            "height": 672,
+            "mediaId": "med_eqs93h6se1"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_vzcq1sbnfj",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png",
+            "alt": "",
+            "width": 2048,
+            "height": 555,
+            "mediaId": "med_q6s759qcnf"
+          },
+          "aspect": "original",
+          "lightbox": false
+        }
+      },
+      {
+        "id": "blk_er1bvcdxfn",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Prosper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (from Latin):"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "pro",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " – in favor of, in accord with;"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "sper",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " - wish, hope, aspiration"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\""
+                  },
+                  {
+                    "type": "text",
+                    "text": "To prosper\" is for life to accord",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "hardBreak"
+                  },
+                  {
+                    "type": "text",
+                    "text": "with your wishes and hopes.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "OUR SITE"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "HOME",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "THE FIELD",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/thefield/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SCIENCE",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/science/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "ABOUT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/about/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "CONTACT",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/contact/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SOCIALS"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "INSTAGRAM",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.instagram.com/",
+                          "newTab": true
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "support@prosper.love"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "SUBSCRIBE"
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 4
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Latest news, updates & announcements"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_6961p7aa7m",
+        "type": "newsletter",
+        "v": 1,
+        "fields": {
+          "askName": false,
+          "placeholder": "Enter Your Email....",
+          "buttonLabel": "SUBSCRIBE",
+          "successMessage": "Almost there — check your inbox to confirm your subscription."
+        },
+        "variant": "stacked"
+      },
+      {
+        "id": "blk_1s7aw4e2kp",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© 2026 HELPFUL LLC"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Terms of Service",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/terms-of-service/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/privacy-policy/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": "blk_826gnt7m8f",
+        "type": "social-links",
+        "v": 1,
+        "fields": {
+          "source": "site",
+          "profiles": [
+            {
+              "network": "instagram",
+              "url": "https://instagram.com/juniperyoga"
+            },
+            {
+              "network": "youtube",
+              "url": "https://youtube.com/@juniperyoga"
+            },
+            {
+              "network": "email",
+              "url": "mailto:hello@juniperyoga.com"
+            }
+          ]
+        }
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "social": [
+    {
+      "network": "instagram",
+      "url": "https://www.instagram.com/"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s — Sacred Space for Intention & Transformation",
+    "description": "Prosper helps you find and create intentions that truly resonate with who you are and how you want to participate in the beautiful game of being human.",
+    "image": "media/2026/10/cwnnqid2spd9gasyr0uowxzbnk-k3je.jpg"
+  },
+  "locale": "en",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  }
 }

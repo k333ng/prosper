@@ -1,0 +1,3651 @@
+{
+  "score": 54,
+  "exact": 54.18,
+  "strict": {
+    "score": 54,
+    "exact": 53.93
+  },
+  "scorer": "v3.1-corrected",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://prosper.love/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 62,
+      "structure": 63,
+      "exact": 62.374670130557504,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "84px",
+          "imported": "84px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "54px",
+          "imported": "54px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "17px",
+          "imported": "24px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.size = 17",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "Geograph Medium 14px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1200px",
+          "imported": "1200px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "184px",
+          "imported": "184px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "You are source.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 84px",
+              "imported": "Instrument Sans 84px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "844px",
+              "imported": "1321px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 1,
+          "heading": "PLAY THE BEST GAME ON EARTH",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 17px",
+              "imported": "Instrument Sans 24px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "862px",
+              "imported": "925px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        },
+        {
+          "index": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 3,
+          "heading": "HOW IT FEELS",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 14px",
+              "imported": "Instrument Sans 24px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 35% wide",
+              "imported": "center, 83% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.92:1",
+              "imported": "1:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "898px",
+              "imported": "2391px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 4,
+          "heading": "pro • sper",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 31px",
+              "imported": "Instrument Sans 31px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "681px",
+              "imported": "520px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 96
+        },
+        {
+          "index": 5,
+          "heading": "Ready to step into the field?",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 47px",
+              "imported": "Instrument Sans 24px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "3",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "761px",
+              "imported": "684px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 43
+        },
+        {
+          "index": 6,
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 47% wide",
+              "imported": "center, 100% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.79:1",
+              "imported": "3.91:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1011px",
+              "imported": "368px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 57
+        },
+        {
+          "index": 7,
+          "heading": "THE SCIENCE",
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 14px",
+              "imported": "Proza Libre 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 35% wide",
+              "imported": "right, 34% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.92:1",
+              "imported": "1.52:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "898px",
+              "imported": "922px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        },
+        {
+          "index": 8,
+          "heading": "TESTIMONIALS",
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 14px",
+              "imported": "Instrument Sans 54px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 16px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#988dcc",
+              "imported": "#cec4fb",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "2",
+              "imported": "4",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "619px",
+              "imported": "1093px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 43
+        },
+        {
+          "index": 9,
+          "heading": "The early ones shape what this becomes.",
+          "importedIndex": 13,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 61px",
+              "imported": "Instrument Sans 84px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "BE AMONG THE FIRST",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 85% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "671px",
+              "imported": "1332px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        },
+        {
+          "index": 10,
+          "heading": "You're ready. We're ready. Let's begin.",
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 54px",
+              "imported": "Instrument Sans 54px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "3",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1135px",
+              "imported": "813px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 11,
+          "heading": "PARTNERS",
+          "importedIndex": 15,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 17px",
+              "imported": "Proza Libre 17px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "3",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 24% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "463px",
+              "imported": "660px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 62,
+        "exact": 62.374670130557504,
+        "structure": 63,
+        "checks": 62.992424242424256
+      },
+      "visual": 0.605
+    },
+    {
+      "path": "/",
+      "original": "https://prosper.love/",
+      "imported": "/ (local preview)",
+      "viewport": 390,
+      "score": 62,
+      "structure": 64,
+      "exact": 62.24882523796015,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "44px",
+          "imported": "40.9px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "44px",
+          "imported": "44.3px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "57px",
+          "imported": "20px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.sizeMobile = 57",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "sans-serif 12px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "99.5px",
+          "imported": "141px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 100",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Act like it.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 57px",
+              "imported": "Instrument Sans 40.9px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "740px",
+              "imported": "1043px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 1,
+          "heading": "PLAY THE BEST GAME ON EARTH",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 17px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1047px",
+              "imported": "1247px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        },
+        {
+          "index": 2,
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "(a picture)",
+              "imported": "with its words in section 6",
+              "ok": true,
+              "weight": 4
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.75:1",
+              "imported": "1.63:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 3,
+          "heading": "HOW IT FEELS",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 17px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 79% wide",
+              "imported": "center, 87% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.97:1",
+              "imported": "1:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1292px",
+              "imported": "2095px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        },
+        {
+          "index": 4,
+          "heading": "pro • sper",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 22px",
+              "imported": "Instrument Sans 25px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "300px",
+              "imported": "433px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 57
+        },
+        {
+          "index": 5,
+          "heading": "Ready to step into the field?",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 44px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 13px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "524px",
+              "imported": "787px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 6,
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 75% wide",
+              "imported": "center, 100% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.46:1",
+              "imported": "1.08:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "760px",
+              "imported": "360px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 71
+        },
+        {
+          "index": 7,
+          "heading": "THE SCIENCE",
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 17px",
+              "imported": "Proza Libre 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 79% wide",
+              "imported": "center, 87% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.97:1",
+              "imported": "1.52:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1118px",
+              "imported": "974px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 58
+        },
+        {
+          "index": 8,
+          "heading": "TESTIMONIALS",
+          "importedIndex": 12,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 14px",
+              "imported": "Instrument Sans 44.3px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 16px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#988dcc",
+              "imported": "#f0f4ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "2",
+              "imported": "4",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "972px",
+              "imported": "4011px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 61
+        },
+        {
+          "index": 9,
+          "heading": "The early ones shape what this becomes.",
+          "importedIndex": 13,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 44px",
+              "imported": "Instrument Sans 40.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#f0f4ed",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "BE AMONG THE FIRST",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 126% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "914px",
+              "imported": "1267px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 10,
+          "heading": "You're ready. We're ready. Let's begin.",
+          "importedIndex": 14,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 47px",
+              "imported": "Instrument Sans 44.3px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 13px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "858px",
+              "imported": "1054px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        },
+        {
+          "index": 11,
+          "heading": "PARTNERS",
+          "importedIndex": 15,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Medium 17px",
+              "imported": "Proza Libre 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 88% wide",
+              "imported": "center, 87% wide",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "2.76:1",
+              "imported": "1:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "475px",
+              "imported": "4027px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 44
+        }
+      ],
+      "strict": {
+        "score": 59,
+        "exact": 59.22622676416372,
+        "structure": 60,
+        "checks": 59.96240601503761
+      },
+      "corrections": [
+        "Section 3 (a picture alone on a phone) is the picture of section 6, which holds it with its words.",
+        "Section 12: columns counted on screen only (6 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.57
+    },
+    {
+      "path": "/about",
+      "original": "https://prosper.love/about",
+      "imported": "/about (local preview)",
+      "viewport": 1440,
+      "score": 64,
+      "structure": 67,
+      "exact": 63.50962139043139,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "16px",
+          "imported": "84px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.size = 16",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "53px",
+          "imported": "54px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "154px",
+          "imported": "184px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Built by practitioners, for practitioners.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 16px",
+              "imported": "Instrument Sans 16px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "639px",
+              "imported": "845px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        },
+        {
+          "index": 1,
+          "heading": "Our Founders",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 61px",
+              "imported": "Instrument Sans 84px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 35% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2692px",
+              "imported": "452px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        },
+        {
+          "index": 2,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 32px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#cec4fb",
+              "imported": "#f0f4ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "243px",
+              "imported": "281px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 63
+        },
+        {
+          "index": 3,
+          "heading": "Ready to step into the field?",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 53px",
+              "imported": "Instrument Sans 54px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "2",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "761px",
+              "imported": "757px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 64,
+        "exact": 63.50962139043139,
+        "structure": 67,
+        "checks": 66.57407407407408
+      },
+      "visual": 0.543
+    },
+    {
+      "path": "/about",
+      "original": "https://prosper.love/about",
+      "imported": "/about (local preview)",
+      "viewport": 390,
+      "score": 61,
+      "structure": 63,
+      "exact": 60.63000516162094,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "16px",
+          "imported": "40.9px",
+          "ok": false,
+          "fix": "choices.typography.scale.h1.sizeMobile = 16",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "41px",
+          "imported": "44.3px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, none",
+          "imported": "0em, none",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "118.5px",
+          "imported": "141px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Built by practitioners, for practitioners.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 16px",
+              "imported": "Instrument Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "964px",
+              "imported": "671px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 1,
+          "heading": "Our Founders",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 48px",
+              "imported": "Instrument Sans 40.9px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 79% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "4135px",
+              "imported": "323px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 50
+        },
+        {
+          "index": 2,
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 28px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#cec4fb",
+              "imported": "#f0f4ed",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "351px",
+              "imported": "275px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 63
+        },
+        {
+          "index": 3,
+          "heading": "Ready to step into the field?",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 41px",
+              "imported": "Instrument Sans 44.3px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "609px",
+              "imported": "732px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 96
+        }
+      ],
+      "strict": {
+        "score": 61,
+        "exact": 60.63000516162094,
+        "structure": 63,
+        "checks": 62.59615384615384
+      },
+      "visual": 0.547
+    },
+    {
+      "path": "/contact",
+      "original": "https://prosper.love/contact",
+      "imported": "/contact (local preview)",
+      "viewport": 1440,
+      "score": 53,
+      "structure": 54,
+      "exact": 53.12181166059679,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 68px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "Geograph Regular 15px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "190px",
+          "imported": "229px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Reach Out We’re Listening",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 68px",
+              "imported": "Instrument Sans 24px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "5",
+              "imported": "3",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "CONNECT WITH US",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1829px",
+              "imported": "1181px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        }
+      ],
+      "strict": {
+        "score": 53,
+        "exact": 53.12181166059679,
+        "structure": 54,
+        "checks": 53.57142857142857
+      },
+      "visual": 0.518
+    },
+    {
+      "path": "/contact",
+      "original": "https://prosper.love/contact",
+      "imported": "/contact (local preview)",
+      "viewport": 390,
+      "score": 49,
+      "structure": 46,
+      "exact": 48.64000633219578,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 48px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "Geograph Regular 15px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "190px",
+          "imported": "181px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Reach Out We're Listening",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 48px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "CONNECT WITH US",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2609px",
+              "imported": "1225px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        }
+      ],
+      "strict": {
+        "score": 49,
+        "exact": 48.64000633219578,
+        "structure": 46,
+        "checks": 46.15384615384615
+      },
+      "visual": 0.561
+    },
+    {
+      "path": "/form-50",
+      "original": "https://prosper.love/form-50",
+      "imported": "/form-50 (local preview)",
+      "viewport": 1440,
+      "score": 52,
+      "structure": 54,
+      "exact": 52.35972863806206,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 68px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "Geograph Regular 15px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "190px",
+          "imported": "229px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Reserve your Spot Unlock 50% Off Unlimited",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 68px",
+              "imported": "Instrument Sans 24px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "5",
+              "imported": "3",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "EARLY ACCESS SIGN-UP",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1646px",
+              "imported": "885px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        }
+      ],
+      "strict": {
+        "score": 52,
+        "exact": 52.35972863806206,
+        "structure": 54,
+        "checks": 53.57142857142857
+      },
+      "visual": 0.487
+    },
+    {
+      "path": "/form-50",
+      "original": "https://prosper.love/form-50",
+      "imported": "/form-50 (local preview)",
+      "viewport": 390,
+      "score": 49,
+      "structure": 46,
+      "exact": 48.71209643004515,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 48px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "Geograph Regular 15px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "190px",
+          "imported": "181px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Reserve your Spot. Unlock 50% Off Unlimited",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 48px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "EARLY ACCESS SIGN-UP",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2453px",
+              "imported": "973px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        }
+      ],
+      "strict": {
+        "score": 49,
+        "exact": 48.71209643004515,
+        "structure": 46,
+        "checks": 46.15384615384615
+      },
+      "visual": 0.564
+    },
+    {
+      "path": "/form-influencer1",
+      "original": "https://prosper.love/form-influencer1",
+      "imported": "/form-influencer1 (local preview)",
+      "viewport": 1440,
+      "score": 71,
+      "structure": 77,
+      "exact": 71.46480974527373,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 61px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Geograph Medium",
+          "imported": "Proza Libre (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"Geograph Medium\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "14px",
+          "imported": "14px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.39em, uppercase",
+          "imported": "0.39em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "158px",
+          "imported": "184px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Bring your people into practice",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 61px",
+              "imported": "Instrument Sans 61px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "FOR TEACHERS, GUIDES & COMMUNITY LEADERS",
+              "imported": "FOR TEACHERS, GUIDES & COMMUNITY LEADERS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "968px",
+              "imported": "1045px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 95
+        },
+        {
+          "index": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 71,
+        "exact": 71.46480974527373,
+        "structure": 77,
+        "checks": 76.5625
+      },
+      "visual": 0.562
+    },
+    {
+      "path": "/form-influencer1",
+      "original": "https://prosper.love/form-influencer1",
+      "imported": "/form-influencer1 (local preview)",
+      "viewport": 915,
+      "score": 42,
+      "structure": 33,
+      "exact": 41.729062025760385,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 50px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.size = 17",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "Geograph Medium",
+          "imported": "Proza Libre (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"Geograph Medium\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow.size = 12",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.208em, none",
+          "imported": "0.39em, uppercase",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow = { letterSpacing: 0.208, case: \"none\" }",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.size = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation: present",
+          "original": "sans-serif 12px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "190px",
+          "imported": "141.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 190",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "SERVE & GROW YOUR AUDIENCE",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 30px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "S",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "4354px",
+              "imported": "1876px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 25
+        }
+      ],
+      "strict": {
+        "score": 42,
+        "exact": 41.729062025760385,
+        "structure": 33,
+        "checks": 32.5
+      },
+      "visual": 0.694
+    },
+    {
+      "path": "/form-prelaunch",
+      "original": "https://prosper.love/form-prelaunch",
+      "imported": "/form-prelaunch (local preview)",
+      "viewport": 1440,
+      "score": 40,
+      "structure": 37,
+      "exact": 40.14615672434115,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 68px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "12px",
+          "imported": "12px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 40,
+        "exact": 40.14615672434115,
+        "structure": 37,
+        "checks": 36.53846153846154
+      },
+      "visual": 0.51
+    },
+    {
+      "path": "/form-prelaunch",
+      "original": "https://prosper.love/form-prelaunch",
+      "imported": "/form-prelaunch (local preview)",
+      "viewport": 390,
+      "score": 45,
+      "structure": 42,
+      "exact": 45.28270583893368,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Geograph Regular 48px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Geograph Regular",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Geograph Regular\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "17px",
+          "imported": "17px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows: present",
+          "original": "Geograph Regular 15px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "sans-serif",
+          "imported": "Instrument Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.25,
+          "fix": "Site Styles → choices.typography.label = { family: \"sans-serif\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "12px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0em, uppercase",
+          "imported": "0em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "190px",
+          "imported": "141px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 190",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "100px",
+          "imported": "8px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Join the Field",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#000000",
+              "imported": "#000000",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Geograph Regular 48px",
+              "imported": "Instrument Sans 20px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Geograph Regular 17px",
+              "imported": "Instrument Sans 17px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#ffffff",
+              "imported": "#ffffff",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "EARLY ACCESS SIGN-UP",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2297px",
+              "imported": "561px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 39
+        }
+      ],
+      "strict": {
+        "score": 45,
+        "exact": 45.28270583893368,
+        "structure": 42,
+        "checks": 42.30769230769231
+      },
+      "visual": 0.542
+    }
+  ]
+}

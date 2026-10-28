@@ -1,17 +1,148 @@
 {
-  "$schema": "https://schema.openspace.host/v1/styles.json",
   "choices": {
     "palette": {
-      "brand": "oklch(0.45 0.05 250)",
+      "brand": "#0099ff",
       "neutral": "warm",
       "contrast": "standard",
-      "source": "curated"
+      "source": "brand"
     },
-    "pairing": "fraunces-hanken",
+    "pairing": "outfit",
     "density": "comfortable",
     "shape": "soft",
     "buttons": "solid",
     "motion": "subtle",
-    "imageTreatment": "none"
+    "imageTreatment": "none",
+    "typography": {
+      "heading": {
+        "family": "Instrument Sans",
+        "category": "sans-serif",
+        "weights": [
+          400
+        ],
+        "italic": true
+      },
+      "body": {
+        "family": "Instrument Sans",
+        "category": "sans-serif",
+        "weights": [
+          400,
+          600
+        ],
+        "italic": true
+      },
+      "label": {
+        "family": "Proza Libre",
+        "category": "sans-serif",
+        "weights": [
+          500
+        ]
+      },
+      "scale": {
+        "h1": {
+          "size": 84,
+          "sizeMobile": 44,
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400
+        },
+        "h2": {
+          "size": 54,
+          "sizeMobile": 44,
+          "lineHeight": 0.98,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400
+        },
+        "h3": {
+          "size": 17,
+          "sizeMobile": 57,
+          "lineHeight": 1.41,
+          "letterSpacing": -0.012,
+          "case": "none",
+          "weight": 400,
+          "font": "heading"
+        },
+        "body": {
+          "size": 17,
+          "sizeMobile": 17,
+          "lineHeight": 1.5,
+          "letterSpacing": 0,
+          "case": "none"
+        },
+        "h4": {
+          "size": 24,
+          "lineHeight": 1.23,
+          "letterSpacing": 0,
+          "case": "none",
+          "font": "heading",
+          "weight": 400
+        },
+        "display": {
+          "size": 84,
+          "sizeMobile": 44,
+          "lineHeight": 1,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400
+        },
+        "eyebrow": {
+          "size": 14,
+          "sizeMobile": 12,
+          "lineHeight": 1.5,
+          "letterSpacing": 0.39,
+          "case": "uppercase",
+          "weight": 500,
+          "font": "label"
+        },
+        "button": {
+          "size": 12,
+          "sizeMobile": 12,
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "case": "none",
+          "weight": 400,
+          "font": "body"
+        },
+        "nav": {
+          "size": 12,
+          "lineHeight": 1.2,
+          "letterSpacing": 0,
+          "case": "uppercase",
+          "weight": 400,
+          "font": "body"
+        }
+      },
+      "eyebrowColor": "muted"
+    },
+    "layout": {
+      "contentWidth": 1200,
+      "sectionPadding": 184,
+      "sectionPaddingMobile": 140
+    }
+  },
+  "overrides": {
+    "color": {
+      "dark": {
+        "heading": {
+          "$type": "color",
+          "$value": "#cec4fb"
+        }
+      },
+      "light": {
+        "text": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "heading": {
+          "$type": "color",
+          "$value": "#ffffff"
+        },
+        "background": {
+          "$type": "color",
+          "$value": "#000000"
+        }
+      }
+    }
   }
 }

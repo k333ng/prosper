@@ -1,0 +1,859 @@
+{
+  "id": "pg_6z6ak93gma",
+  "title": "THE FIELD",
+  "slug": "thefield",
+  "seo": {
+    "title": "Prosper | Intentions & Affirmations that actually land",
+    "description": "Prosper is a space alive with the intentions of everyone practicing in it",
+    "image": "media/2026/10/tfljwk4dallxshhccjzab5qdo9s-4wyd.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_bn0vf12jqs",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_48ad1m36r3",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "THE FIELD"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_rek9ppy61h",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "It's a space - alive with the intentions of everyone practicing in it.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "It's a space - alive with the intentions of everyone practicing in it.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "It's a space - alive with the intentions of everyone practicing in it.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_fk32ja57mg",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This is how the world actually changes."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_v090cvzn0k",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "gap": "xl"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_r1rm28jnvy",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "You step into the field",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The noise fades. Sound and voice guide you. From your head down into your heart. Through your heart into the field. By the time your intentions begin, you're already somewhere different."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/zccbvcwdlhicdxhev3cali1r2ay-6ha5.webp",
+                  "alt": "Music Producer sitting at his desk",
+                  "width": 1000,
+                  "height": 791,
+                  "mediaId": "med_6ha56gsjwa"
+                }
+              },
+              {
+                "heading": "You step into the field",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The noise fades. Sound and voice guide you. From your head down into your heart. Through your heart into the field. By the time your intentions begin, you're already somewhere different."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/zccbvcwdlhicdxhev3cali1r2ay-6ha5.webp",
+                  "alt": "Music Producer sitting at his desk",
+                  "width": 1000,
+                  "height": 791,
+                  "mediaId": "med_6ha56gsjwa"
+                }
+              },
+              {
+                "heading": "You feel your intention",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Not a to-do. Not a wish. An intention — something you're stepping into with your whole being. Something your heart already knows is real. You speak it in your own voice. You resonate it into reality."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/ecsinjbm4bjkjfrhbg1fzpda07m-j4wk.png",
+                  "alt": "Hand on chest with prosperity",
+                  "width": 2048,
+                  "height": 1331,
+                  "mediaId": "med_j4wkksys4h"
+                }
+              },
+              {
+                "heading": "You feel your intention",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Not a to-do. Not a wish. An intention — something you're stepping into with your whole being. Something your heart already knows is real. You speak it in your own voice. You resonate it into reality."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/ecsinjbm4bjkjfrhbg1fzpda07m-j4wk.png",
+                  "alt": "Hand on chest with prosperity",
+                  "width": 2048,
+                  "height": 1331,
+                  "mediaId": "med_j4wkksys4h"
+                }
+              },
+              {
+                "heading": "You're not alone",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Others are holding the same intentions — not as strangers, but as hearts joined together in coherence. You can feel it. Something shifts when you know you're not the only one."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/k6is4f93wzx30syoz25yg6bvvxa-4yz9.png",
+                  "alt": "Intentions & Manifestation",
+                  "width": 2048,
+                  "height": 1288,
+                  "mediaId": "med_4yz91gdbn4",
+                  "focal": [
+                    0.514,
+                    0.517
+                  ]
+                }
+              },
+              {
+                "heading": "You're not alone",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Others are holding the same intentions — not as strangers, but as hearts joined together in coherence. You can feel it. Something shifts when you know you're not the only one."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/k6is4f93wzx30syoz25yg6bvvxa-4yz9.png",
+                  "alt": "Intentions & Manifestation",
+                  "width": 2048,
+                  "height": 1288,
+                  "mediaId": "med_4yz91gdbn4",
+                  "focal": [
+                    0.514,
+                    0.517
+                  ]
+                }
+              },
+              {
+                "heading": "You return",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Back to your day, but different. Something has been planted. Come back tomorrow and water it. The practice compounds."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/fb7zz072xdp6o8xmrxvzios8ce-hr79.webp",
+                  "alt": "",
+                  "width": 2400,
+                  "height": 1309,
+                  "mediaId": "med_hr79xs26z5"
+                }
+              },
+              {
+                "heading": "You return",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Back to your day, but different. Something has been planted. Come back tomorrow and water it. The practice compounds."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "image": {
+                  "src": "media/2026/10/fb7zz072xdp6o8xmrxvzios8ce-hr79.webp",
+                  "alt": "",
+                  "width": 2400,
+                  "height": 1309,
+                  "mediaId": "med_hr79xs26z5"
+                }
+              }
+            ],
+            "columns": "4",
+            "aspect": "4:5"
+          },
+          "variant": "plain"
+        }
+      ],
+      "preset": "services/image-cards@1",
+      "anchor": "services"
+    },
+    {
+      "id": "sec_0cnj68sq8j",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vfzdje4518",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "WHY THIS WORKS"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "how-it-works"
+    },
+    {
+      "id": "sec_hhq4yhmcq0",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_cj41wrfa3v",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1,
+                    "preset": "h2"
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It's not magic."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "(Well, not only magic)"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_qe07fvt906",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_6r3x3wmwst",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "It's not magic."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "(Well, not only magic)"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Here's what's actually happening."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Speech"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Speech"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Speech"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Speech"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In the beginning was the word. How we frame our thoughts frames our reality. In Prosper, you choose your words with intention and speak them in your own voice."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In the beginning was the word. How we frame our thoughts frames our reality. In Prosper, you choose your words with intention and speak them in your own voice."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Feeling"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Feeling"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Feeling"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Feeling"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The heart's field resonates beyond the body, broadcasting what we feel. Connect heart and mind and watch your world cohere."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The heart's field resonates beyond the body, broadcasting what we feel. Connect heart and mind and watch your world cohere."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The heart's field resonates beyond the body, broadcasting what we feel. Connect heart and mind and watch your world cohere."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The heart's field resonates beyond the body, broadcasting what we feel. Connect heart and mind and watch your world cohere."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Belief"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Belief"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Belief"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Belief"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Beliefs form between what we think and what we feel. They rewire our neurology, reshape our biology, and define everything we experience."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Beliefs form between what we think and what we feel. They rewire our neurology, reshape our biology, and define everything we experience."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Beliefs form between what we think and what we feel. They rewire our neurology, reshape our biology, and define everything we experience."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Beliefs form between what we think and what we feel. They rewire our neurology, reshape our biology, and define everything we experience."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Collective"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We don't live in a vacuum. The field encompasses all, and we all resonate together within the field. When we come into coherence with each other, that's where intention is most potent."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Collective"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We don't live in a vacuum. The field encompasses all, and we all resonate together within the field. When we come into coherence with each other, that's where intention is most potent."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Collective"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We don't live in a vacuum. The field encompasses all, and we all resonate together within the field. When we come into coherence with each other, that's where intention is most potent."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Collective"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We don't live in a vacuum. The field encompasses all, and we all resonate together within the field. When we come into coherence with each other, that's where intention is most potent."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_v8sg9ejqx7",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_hg7mzm4d3w",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_a9vf6da319",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "your@email.com",
+            "buttonLabel": "Enter the Field",
+            "successMessage": "Almost there — check your inbox to confirm your subscription."
+          },
+          "variant": "stacked"
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "final-cta"
+    }
+  ]
+}

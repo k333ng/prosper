@@ -1,0 +1,1049 @@
+{
+  "id": "pg_1py619tnm2",
+  "title": "ABOUT",
+  "slug": "about",
+  "seo": {
+    "title": "About Prosper | Spiritual Technology for Awakening",
+    "description": "Learn how Prosper aligns human will with divine intelligence through intention practice, AI guidance and energetic tools supporting collective coherence.",
+    "image": "media/2026/10/nwwaayydttg8flpofbye9g1m-wbh7.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_ff6vxgrkxr",
+      "preset": "component/imported-about-1@1",
+      "label": "Built by practitioners, for…",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_p7md790mgm",
+          "type": "component/imported-about-1",
+          "v": 1,
+          "fields": {
+            "text1": "ABOUT",
+            "text2": "Built by practitioners, for practitioners.",
+            "text3": "We've read the books. Done the workshops. Downloaded the apps. We've had peak experiences and moments of real insight - and watched them fade. We've also marched, organized, and tried to change the world from the outside. That fades too.",
+            "text4": "We kept coming back to a deeper question: what if the most lasting change - personal and collective - begins in the human heart?",
+            "text5": "Human consciousness is more powerful than we've been taught - and we have the capacity to use it with love, together, for real change. The device in your pocket - the one pulling you into comparison and noise - can become a vehicle for your heart's deepest intention.",
+            "text6": "That's Prosper."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0d01cmp10k",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_rf9nw6rrct",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Our Founders",
+            "level": "h1",
+            "size": "auto"
+          },
+          "variant": "plain"
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_bs1k940rev",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_tcznqwnre4",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Founders"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_5yyj0pdgqj",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_aq4r2p450v",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Founders"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_33wgrgp48s",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/ufrrzwtgrj1r9xe6y0pbizmcuy-mrxy.jpg",
+              "alt": "BG",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_mrxybzzwmw"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_m0jkbdyw3w",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/gjzud8ypea2zhq0tqxwewuhtpc-ezn0.webp",
+              "alt": "BG",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_ezn0bkt2sy"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_yg44t4q8ek",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FOUNDER / CEO"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FOUNDER / CEO"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FOUNDER / CEO"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_rr90wtg285",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Aaron Nichols",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Aaron Nichols",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Aaron Nichols",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "2",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_scchsnaer6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For most of my adult life, I knew something was true that I wasn't yet able to live."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I was raised in Self-Realization Fellowship - Yogananda's tradition, surrounded by affirmations and the power of the mind from childhood. The foundation was there. But something about mainstream manifestation teachings felt off to me. Too much \"I, me, mine.\" I wanted to live a life of service."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I did the hard inner work - Gurdjieff, introspection, meditation, and still found myself broke, sleeping in a borrowed car, tangled in self-judgment I couldn't escape."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "What I didn't understand yet was this: the problem wasn't that I needed to become someone better. The problem was that I'd been at war - with myself and with the world."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The turn didn't start in my head. It started in my heart."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I stopped trying to analyze or discipline myself into transformation. Instead, something softer began. I started to love myself — not as a concept, but as an actual daily practice. To see myself with kindness instead of judgment. To see the world the same way."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I changed the language I used - in my thoughts, in my speech- about myself and about the world. Not just to be more positive. To be more true and more loving. But the language was in service of something deeper. My heart was opening. Toward myself. Toward the divine in all things."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "And what came out of that opening was a prayer I meant with my whole being, spoken every morning:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"May each of my thoughts, feelings, and actions serve to increase the happiness and well-being of all sentient beings.\""
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Not a prayer for myself. For everyone."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My life changed. Not metaphorically. Materially, measurably, completely. From borrowed car to building a multi-million dollar company. From paralysis to purpose. Gifts I didn't know I had started showing up."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Years later, while building that company, I went alone into the woods. What came to me was clear: I wanted to use whatever I built in service of human consciousness. To help people access what I'd found."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "After I exited, the vision for Prosper arrived - not something I constructed. Something I received. The core of it was collective intention. What becomes possible when thousands of hearts hold the same intention together?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Two days later I met Jason."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For most of my adult life, I knew something was true that I wasn't yet able to live."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I was raised in Self-Realization Fellowship - Yogananda's tradition, surrounded by affirmations and the power of the mind from childhood. The foundation was there. But something about mainstream manifestation teachings felt off to me. Too much \"I, me, mine.\" I wanted to live a life of service."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I did the hard inner work - Gurdjieff, introspection, meditation, and still found myself broke, sleeping in a borrowed car, tangled in self-judgment I couldn't escape."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "What I didn't understand yet was this: the problem wasn't that I needed to become someone better. The problem was that I'd been at war - with myself and with the world."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The turn didn't start in my head. It started in my heart."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I stopped trying to analyze or discipline myself into transformation. Instead, something softer began. I started to love myself — not as a concept, but as an actual daily practice. To see myself with kindness instead of judgment. To see the world the same way."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I changed the language I used - in my thoughts, in my speech- about myself and about the world. Not just to be more positive. To be more true and more loving. But the language was in service of something deeper. My heart was opening. Toward myself. Toward the divine in all things."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "And what came out of that opening was a prayer I meant with my whole being, spoken every morning:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"May each of my thoughts, feelings, and actions serve to increase the happiness and well-being of all sentient beings.\""
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Not a prayer for myself. For everyone."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My life changed. Not metaphorically. Materially, measurably, completely. From borrowed car to building a multi-million dollar company. From paralysis to purpose. Gifts I didn't know I had started showing up."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Years later, while building that company, I went alone into the woods. What came to me was clear: I wanted to use whatever I built in service of human consciousness. To help people access what I'd found."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "After I exited, the vision for Prosper arrived - not something I constructed. Something I received. The core of it was collective intention. What becomes possible when thousands of hearts hold the same intention together?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Two days later I met Jason."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For most of my adult life, I knew something was true that I wasn't yet able to live."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I was raised in Self-Realization Fellowship - Yogananda's tradition, surrounded by affirmations and the power of the mind from childhood. The foundation was there. But something about mainstream manifestation teachings felt off to me. Too much \"I, me, mine.\" I wanted to live a life of service."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I did the hard inner work - Gurdjieff, introspection, meditation, and still found myself broke, sleeping in a borrowed car, tangled in self-judgment I couldn't escape."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "What I didn't understand yet was this: the problem wasn't that I needed to become someone better. The problem was that I'd been at war - with myself and with the world."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The turn didn't start in my head. It started in my heart."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I stopped trying to analyze or discipline myself into transformation. Instead, something softer began. I started to love myself — not as a concept, but as an actual daily practice. To see myself with kindness instead of judgment. To see the world the same way."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I changed the language I used - in my thoughts, in my speech- about myself and about the world. Not just to be more positive. To be more true and more loving. But the language was in service of something deeper. My heart was opening. Toward myself. Toward the divine in all things."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "And what came out of that opening was a prayer I meant with my whole being, spoken every morning:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"May each of my thoughts, feelings, and actions serve to increase the happiness and well-being of all sentient beings.\""
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Not a prayer for myself. For everyone."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My life changed. Not metaphorically. Materially, measurably, completely. From borrowed car to building a multi-million dollar company. From paralysis to purpose. Gifts I didn't know I had started showing up."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Years later, while building that company, I went alone into the woods. What came to me was clear: I wanted to use whatever I built in service of human consciousness. To help people access what I'd found."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "After I exited, the vision for Prosper arrived - not something I constructed. Something I received. The core of it was collective intention. What becomes possible when thousands of hearts hold the same intention together?"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Two days later I met Jason."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_725zdsdz13",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/7xws8k5bdmhqsqvosvtsifj5lio-96gc.webp",
+              "alt": "BG",
+              "width": 800,
+              "height": 800,
+              "mediaId": "med_96gcp4gby8"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_73vhj9yee6",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CO-FOUNDER"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CO-FOUNDER"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CO-FOUNDER"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_1h3r0pte03",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Jason McDonald",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Jason McDonald",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Jason McDonald",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "2",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_j3n9s6qkn0",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I've spent my life learning to deepen my intimacy with the unseen - through aesthetics, the energetic field and the great mysteries that infuse life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Graphic designer by training, Creative Director for 25 years, founder of multiple companies, I’ve built products and shaped visual identities across London, Singapore, Bangkok and Melbourne."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Along the way I went deep: practitioner accreditation and facilitation in energetic field work, research-grade brainwave state monitoring in neuroscience, Meditation Teacher training, and decades of immersion in Tibetan Buddhism, Korean Buddhism, Anthroposophy, and esoteric wisdom traditions. More than twenty years of meditative practice, pilgrimage and retreat informs everything I touch."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These days, my life is given mostly to art. Not art as expression, art as sacred technology. It's the convergence of everything I've practised and studied, and it's the most fulfilling and sacred work I've ever done."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "That art lives inside Prosper and does the layers of aesthetic intelligence in the apps design ~ every screen, every atmosphere, every moment of beauty you encounter in the app, I designed it, and I designed it all to do something to you."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I've spent my life learning to deepen my intimacy with the unseen - through aesthetics, the energetic field and the great mysteries that infuse life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Graphic designer by training, Creative Director for 25 years, founder of multiple companies, I’ve built products and shaped visual identities across London, Singapore, Bangkok and Melbourne."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Along the way I went deep: practitioner accreditation and facilitation in energetic field work, research-grade brainwave state monitoring in neuroscience, Meditation Teacher training, and decades of immersion in Tibetan Buddhism, Korean Buddhism, Anthroposophy, and esoteric wisdom traditions. More than twenty years of meditative practice, pilgrimage and retreat informs everything I touch."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These days, my life is given mostly to art. Not art as expression, art as sacred technology. It's the convergence of everything I've practised and studied, and it's the most fulfilling and sacred work I've ever done."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "That art lives inside Prosper and does the layers of aesthetic intelligence in the apps design ~ every screen, every atmosphere, every moment of beauty you encounter in the app, I designed it, and I designed it all to do something to you."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I've spent my life learning to deepen my intimacy with the unseen - through aesthetics, the energetic field and the great mysteries that infuse life."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Graphic designer by training, Creative Director for 25 years, founder of multiple companies, I’ve built products and shaped visual identities across London, Singapore, Bangkok and Melbourne."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Along the way I went deep: practitioner accreditation and facilitation in energetic field work, research-grade brainwave state monitoring in neuroscience, Meditation Teacher training, and decades of immersion in Tibetan Buddhism, Korean Buddhism, Anthroposophy, and esoteric wisdom traditions. More than twenty years of meditative practice, pilgrimage and retreat informs everything I touch."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These days, my life is given mostly to art. Not art as expression, art as sacred technology. It's the convergence of everything I've practised and studied, and it's the most fulfilling and sacred work I've ever done."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "That art lives inside Prosper and does the layers of aesthetic intelligence in the apps design ~ every screen, every atmosphere, every moment of beauty you encounter in the app, I designed it, and I designed it all to do something to you."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_ag60hjfz1g",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "gap": "md",
+        "width": "content"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_mm42mn3d39",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prosper wasn't planned. It was called forth. And we answered."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prosper wasn't planned."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "It was called forth. And we answered."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prosper wasn't planned. It was called forth."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "And we answered."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "variant": "default",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "cta/card-centered@1",
+      "anchor": "final-cta"
+    },
+    {
+      "id": "sec_psrnxdrez8",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_d9w5qzrtqa",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "2",
+            "aspect": "4:5"
+          },
+          "style": {
+            "typography": {
+              "heading": "h2"
+            }
+          }
+        },
+        {
+          "id": "blk_yadhghbqn9",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "your@email.com",
+            "buttonLabel": "Enter the Field",
+            "successMessage": "Almost there — check your inbox to confirm your subscription."
+          },
+          "variant": "stacked"
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "final-cta-1"
+    }
+  ]
+}

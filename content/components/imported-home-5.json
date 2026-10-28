@@ -1,0 +1,28 @@
+{
+  "name": "imported-home-5",
+  "label": "pro • sper",
+  "description": "Recreated from the original site's layout (measured in a browser): every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "text1": {
+      "kind": "text",
+      "label": "Heading “pro • sper”",
+      "maxLength": 300
+    },
+    "text2": {
+      "kind": "text",
+      "label": "Heading “Latin: pro (in favor of)…”",
+      "maxLength": 300
+    }
+  },
+  "defaults": {
+    "text1": "pro • sper",
+    "text2": "Latin: pro (in favor of) + sper (wish, hope, aspiration) For life to accord with your wishes and hopes."
+  },
+  "template": "<div class=\"gx\">\n  <h2 class=\"gx__i gx__i1\">{{text1}}</h2>\n  <h3 class=\"gx__i gx__i2\">{{text2}}</h3>\n</div>",
+  "css": ":scope { width: min(100%, 820px); margin-inline: auto; }\n.gx { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); grid-auto-rows: minmax(8px, auto); column-gap: 0; }\n.gx__i { position: relative; z-index: 1; margin: 0; min-width: 0; overflow-wrap: break-word; }\n.gx__i p { margin: 0; }\n.gx__p { z-index: 0; }\n.gx__img picture, .gx__img img { display: block; width: 100%; height: 100%; object-fit: cover; }\n.gx__i1 { grid-column: 2 / span 21; grid-row: 1 / span 9; font-family: var(--os-font-heading); font-size: 31px; font-weight: 400; line-height: 2.19; letter-spacing: 0.02em; text-align: center; color: var(--os-color-background); }\n.gx__i2 { grid-column: 1 / span 24; grid-row: 11 / span 9; font-family: var(--os-font-heading); font-size: 23px; font-weight: 400; line-height: 1.48; letter-spacing: 0.02em; text-align: center; color: var(--os-color-text); }\n@media (max-width: 767px) {\n  .gx { display: flex; flex-direction: column; gap: var(--os-space-sm); }\n  .gx__i1 { font-family: var(--os-font-heading); font-size: 25px; }\n  .gx__i2 { font-family: var(--os-font-heading); font-size: 18px; }\n}",
+  "section": {
+    "width": "wide"
+  }
+}

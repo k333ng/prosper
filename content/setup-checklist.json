@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "source": "import",
+  "from": "Framer",
+  "items": [
+    {
+      "id": "forms-email",
+      "kind": "forms-email",
+      "title": "Get form messages by email",
+      "detail": "4 form(s) came across. Messages are kept in OpenSpace; choose where to get an email when someone writes.",
+      "where": [
+        "/form-prelaunch",
+        "/form-influencer1",
+        "/contact",
+        "/form-50"
+      ],
+      "count": 4,
+      "status": "todo"
+    },
+    {
+      "id": "newsletter",
+      "kind": "newsletter",
+      "title": "Bring your newsletter subscribers",
+      "detail": "Sign-up forms came across, but subscribers stay with Framer. Export them there and import them here.",
+      "where": [
+        "/",
+        "/thefield",
+        "/science",
+        "/about"
+      ],
+      "status": "todo"
+    },
+    {
+      "id": "domain",
+      "kind": "domain",
+      "title": "Use prosper.love for your new site",
+      "detail": "Your new site is live on a free address. When you're happy with it, we'll help you point prosper.love at it — your old site keeps working until then.",
+      "status": "todo"
+    },
+    {
+      "id": "font-licence",
+      "kind": "other",
+      "title": "Use your own font licence",
+      "detail": "Your old site used Geograph Regular and Geograph Medium, which we're not allowed to copy, so the closest free fonts stand in (Instrument Sans, Proza Libre). If you have a web licence, download the font files (WOFF2) from the font service and upload them in Site Styles → Your fonts — they're stored in media/fonts/ — then choose them for your headings and text.",
+      "status": "todo"
+    }
+  ]
+}

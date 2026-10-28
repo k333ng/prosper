@@ -1,0 +1,501 @@
+{
+  "media/2026/10/hqnobbmawnh2tigugtpaqbl2mna-5ax9.webp": {
+    "id": "med_5ax9c41k6b",
+    "path": "media/2026/10/hqnobbmawnh2tigugtpaqbl2mna-5ax9.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 364422,
+    "width": 1056,
+    "height": 1984,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "hQNOBBmawNh2tIGUgTPaqbL2mNA.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/7cs5krs91ooy1t42nfgk4kvyz6o-rw81.png": {
+    "id": "med_rw81wgnp62",
+    "path": "media/2026/10/7cs5krs91ooy1t42nfgk4kvyz6o-rw81.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 244992,
+    "width": 1522,
+    "height": 934,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "7cS5KrS91OOy1t42Nfgk4KVYZ6o.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/n0gskagy94drruz1cbyhdpniwxy-6c9a.webp": {
+    "id": "med_6c9a2fvas8",
+    "path": "media/2026/10/n0gskagy94drruz1cbyhdpniwxy-6c9a.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 122614,
+    "width": 1000,
+    "height": 791,
+    "alt": "BG",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "N0gSkAgY94drRUz1cbYhDPniWXY.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/sfbtglonntglsobrdogqugvbvg-zrap.webp": {
+    "id": "med_zrapffcts5",
+    "path": "media/2026/10/sfbtglonntglsobrdogqugvbvg-zrap.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 518616,
+    "width": 1692,
+    "height": 2122,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "sFbTgLOnNTgLsOBrDogQUgvbvg.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/bru7wrn1ycl0ozdoybhwb5wnji-1dvt.png": {
+    "id": "med_1dvtkckygm",
+    "path": "media/2026/10/bru7wrn1ycl0ozdoybhwb5wnji-1dvt.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 840299,
+    "width": 2048,
+    "height": 1342,
+    "alt": "BG",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "bru7wRN1yCL0OzDoyBhWb5WNjI.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-9x2g.png": {
+    "id": "med_9x2gt5r6aq",
+    "path": "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-9x2g.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 159037,
+    "width": 1505,
+    "height": 1505,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "7q0wmINRELpGU1OCeDaWMSIcfu8.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/a3iu5eoveebqletfsc2nylnbik-zfhq.png": {
+    "id": "med_zfhqd0phy4",
+    "path": "media/2026/10/a3iu5eoveebqletfsc2nylnbik-zfhq.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 77904,
+    "width": 1704,
+    "height": 659,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "A3IU5eOveebQlEtfSc2NyLNbik.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-7bs6.png": {
+    "id": "med_7bs6y2mnaq",
+    "path": "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-7bs6.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 37522,
+    "width": 2048,
+    "height": 1478,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "MUKZRFzBXcbRtrM7bA4TizMw.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-14qn.png": {
+    "id": "med_14qn797y0r",
+    "path": "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-14qn.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 32535,
+    "width": 1221,
+    "height": 934,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "tbHPWxqPn12Dva0GLVsqBrNKNA.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/cwnnqid2spd9gasyr0uowxzbnk-k3je.jpg": {
+    "id": "med_k3je9fm91z",
+    "path": "media/2026/10/cwnnqid2spd9gasyr0uowxzbnk-k3je.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 228523,
+    "width": 1200,
+    "height": 630,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "cWnNQiD2SPD9GaSYr0uoWXzBNk.jpg",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/zccbvcwdlhicdxhev3cali1r2ay-6ha5.webp": {
+    "id": "med_6ha56gsjwa",
+    "path": "media/2026/10/zccbvcwdlhicdxhev3cali1r2ay-6ha5.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 54348,
+    "width": 1000,
+    "height": 791,
+    "alt": "Music Producer sitting at his desk",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "ZccbvCWdLhicdXhev3CALI1r2AY.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/ecsinjbm4bjkjfrhbg1fzpda07m-j4wk.png": {
+    "id": "med_j4wkksys4h",
+    "path": "media/2026/10/ecsinjbm4bjkjfrhbg1fzpda07m-j4wk.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 1070107,
+    "width": 2048,
+    "height": 1331,
+    "alt": "Hand on chest with prosperity",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "ecSinjBM4bJkjfRHBg1FzPDA07M.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/k6is4f93wzx30syoz25yg6bvvxa-4yz9.png": {
+    "id": "med_4yz91gdbn4",
+    "path": "media/2026/10/k6is4f93wzx30syoz25yg6bvvxa-4yz9.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 951766,
+    "width": 2048,
+    "height": 1288,
+    "alt": "Intentions & Manifestation",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "k6is4f93Wzx30SYOZ25Yg6bVVxA.png",
+    "focal": [
+      0.514,
+      0.517
+    ],
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/fb7zz072xdp6o8xmrxvzios8ce-hr79.webp": {
+    "id": "med_hr79xs26z5",
+    "path": "media/2026/10/fb7zz072xdp6o8xmrxvzios8ce-hr79.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 86906,
+    "width": 2400,
+    "height": 1309,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "Fb7zz072xDp6O8XmRxVziOs8cE.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/tfljwk4dallxshhccjzab5qdo9s-4wyd.jpg": {
+    "id": "med_4wydrehkz6",
+    "path": "media/2026/10/tfljwk4dallxshhccjzab5qdo9s-4wyd.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 336971,
+    "width": 1200,
+    "height": 630,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "TFLjWK4DAlLxsHhcCJzAB5QdO9s.jpg",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/wefdvxr3vq3hn3nliazyxrdydzc-tfkw.png": {
+    "id": "med_tfkwk6e7fj",
+    "path": "media/2026/10/wefdvxr3vq3hn3nliazyxrdydzc-tfkw.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 1158683,
+    "width": 2048,
+    "height": 1242,
+    "alt": "Man Using Tab",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "WEFDvxR3VQ3hN3NlIAzYxRdydzc.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/xcer20wtcjjmqlbuwy2lxhm9s-qmxj.webp": {
+    "id": "med_qmxjhvqfk2",
+    "path": "media/2026/10/xcer20wtcjjmqlbuwy2lxhm9s-qmxj.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 162444,
+    "width": 2379,
+    "height": 1536,
+    "alt": "Man Using Tab",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "Xcer20WTcjJMqlBUWy2LxHM9s.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/lm9z5mvkrs0kgtzqeiv9rjko2i-frj1.webp": {
+    "id": "med_frj13zfj94",
+    "path": "media/2026/10/lm9z5mvkrs0kgtzqeiv9rjko2i-frj1.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 220776,
+    "width": 2379,
+    "height": 1536,
+    "alt": "Man Using Tab",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "lM9Z5Mvkrs0KGTzqEiV9RJkO2I.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/1wk8ifpg6qkoa8j9mfgvedex7c-acwb.webp": {
+    "id": "med_acwb1gw1f8",
+    "path": "media/2026/10/1wk8ifpg6qkoa8j9mfgvedex7c-acwb.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 50004,
+    "width": 1626,
+    "height": 1037,
+    "alt": "Man Using Tab",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "1Wk8IFPg6QKoa8j9MfgvedEX7c.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/nwwaayydttg8flpofbye9g1m-wbh7.jpg": {
+    "id": "med_wbh72sgt94",
+    "path": "media/2026/10/nwwaayydttg8flpofbye9g1m-wbh7.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 547376,
+    "width": 1200,
+    "height": 630,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "NWwaAYYDTTg8fLpoFbYE9G1M.jpg",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/ufrrzwtgrj1r9xe6y0pbizmcuy-mrxy.jpg": {
+    "id": "med_mrxybzzwmw",
+    "path": "media/2026/10/ufrrzwtgrj1r9xe6y0pbizmcuy-mrxy.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 122277,
+    "width": 800,
+    "height": 800,
+    "alt": "BG",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "ufrRZWtGrj1r9xe6y0pbIzmcuY.jpg",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/gjzud8ypea2zhq0tqxwewuhtpc-ezn0.webp": {
+    "id": "med_ezn0bkt2sy",
+    "path": "media/2026/10/gjzud8ypea2zhq0tqxwewuhtpc-ezn0.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 80402,
+    "width": 800,
+    "height": 800,
+    "alt": "BG",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "GjZUd8YPea2Zhq0TQXWeWUHtPc.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/7xws8k5bdmhqsqvosvtsifj5lio-96gc.webp": {
+    "id": "med_96gcp4gby8",
+    "path": "media/2026/10/7xws8k5bdmhqsqvosvtsifj5lio-96gc.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 65054,
+    "width": 800,
+    "height": 800,
+    "alt": "BG",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "7xWs8K5BDmHQSqVoSvTSiFJ5Lio.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/vvfycatnvewohjvbgcubs70m4-8aqh.webp": {
+    "id": "med_8aqhrgs286",
+    "path": "media/2026/10/vvfycatnvewohjvbgcubs70m4-8aqh.webp",
+    "kind": "image",
+    "mime": "image/webp",
+    "bytes": 30772,
+    "width": 1200,
+    "height": 630,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "vvFYcatNvEwohjVbgCubS70M4.webp",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/qn4hrw3ggepov44dfpx1mmvobg-eqs9.jpg": {
+    "id": "med_eqs93h6se1",
+    "path": "media/2026/10/qn4hrw3ggepov44dfpx1mmvobg-eqs9.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 27655,
+    "width": 2048,
+    "height": 672,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "Qn4HrW3ggePOv44dfPX1MMvobg.jpg",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png": {
+    "id": "med_q6s759qcnf",
+    "path": "media/2026/10/rkucnfnat0fu05djrfl4tyv7h1g-q6s7.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 25746,
+    "width": 2048,
+    "height": 555,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "rKUcnFNAt0Fu05DjRfl4TYv7h1g.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/yquthom1zgx8ffnbiiz7k0sgts-ekwa.png": {
+    "id": "med_ekwawws55m",
+    "path": "media/2026/10/yquthom1zgx8ffnbiiz7k0sgts-ekwa.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 3026,
+    "width": 181,
+    "height": 181,
+    "alt": "",
+    "createdAt": "2026-10-28T18:11:12.173Z",
+    "originalName": "YQuThom1Zgx8FFnBIiZ7K0SGTs.png",
+    "credit": {
+      "source": "Imported from Framer"
+    }
+  },
+  "media/2026/10/bru7wrn1ycl0ozdoybhwb5wnji-4163.png": {
+    "id": "med_4163nc9z8h",
+    "path": "media/2026/10/bru7wrn1ycl0ozdoybhwb5wnji-4163.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 67489,
+    "width": 512,
+    "height": 336,
+    "alt": "BG",
+    "createdAt": "2026-10-28T18:22:15.717Z",
+    "originalName": "bru7wRN1yCL0OzDoyBhWb5WNjI.webp",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-0zra.png": {
+    "id": "med_0zragz9vxr",
+    "path": "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-0zra.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 8540,
+    "width": 512,
+    "height": 370,
+    "alt": "",
+    "createdAt": "2026-10-28T18:22:15.717Z",
+    "originalName": "MUKZRFzBXcbRtrM7bA4TizMw.png",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-104b.png": {
+    "id": "med_104b0wphxn",
+    "path": "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-104b.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 42729,
+    "width": 512,
+    "height": 512,
+    "alt": "",
+    "createdAt": "2026-10-28T18:22:15.717Z",
+    "originalName": "7q0wmINRELpGU1OCeDaWMSIcfu8.png",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/a3iu5eoveebqletfsc2nylnbik-jj5k.png": {
+    "id": "med_jj5kd4h0fa",
+    "path": "media/2026/10/a3iu5eoveebqletfsc2nylnbik-jj5k.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 15324,
+    "width": 512,
+    "height": 198,
+    "alt": "",
+    "createdAt": "2026-10-28T18:22:15.717Z",
+    "originalName": "A3IU5eOveebQlEtfSc2NyLNbik.png",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/nspdiaujeoapcbuiuqo87vdzauq-pc8f.svg": {
+    "id": "med_pc8f6ad4hy",
+    "path": "media/2026/10/nspdiaujeoapcbuiuqo87vdzauq-pc8f.svg",
+    "kind": "image",
+    "mime": "image/svg+xml",
+    "bytes": 9943,
+    "width": 465,
+    "height": 122,
+    "alt": "",
+    "originalName": "nspDiauJEOApcBUiuqO87VdzAuQ.svg",
+    "createdAt": "2026-10-28T18:22:15.717Z",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-8hyj.png": {
+    "id": "med_8hyjg3mfsm",
+    "path": "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-8hyj.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 14926,
+    "width": 512,
+    "height": 392,
+    "alt": "",
+    "createdAt": "2026-10-28T18:22:15.717Z",
+    "originalName": "tbHPWxqPn12Dva0GLVsqBrNKNA.png",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  }
+}

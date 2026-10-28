@@ -1,0 +1,57 @@
+{
+  "name": "imported-about-1",
+  "label": "Built by practitioners, for…",
+  "description": "Recreated from the original site's layout (measured in a browser): every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "text1": {
+      "kind": "text",
+      "label": "Small label",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text2": {
+      "kind": "text",
+      "label": "Heading",
+      "maxLength": 300
+    },
+    "text3": {
+      "kind": "text",
+      "label": "Paragraph “We've read the books.…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text4": {
+      "kind": "text",
+      "label": "Paragraph “We kept coming back to a…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text5": {
+      "kind": "text",
+      "label": "Paragraph “Human consciousness is…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text6": {
+      "kind": "text",
+      "label": "Paragraph “That's Prosper.”",
+      "maxLength": 1500,
+      "multiline": true
+    }
+  },
+  "defaults": {
+    "text1": "ABOUT",
+    "text2": "Built by practitioners, for practitioners.",
+    "text3": "We've read the books. Done the workshops. Downloaded the apps. We've had peak experiences and moments of real insight - and watched them fade. We've also marched, organized, and tried to change the world from the outside. That fades too.",
+    "text4": "We kept coming back to a deeper question: what if the most lasting change - personal and collective - begins in the human heart?",
+    "text5": "Human consciousness is more powerful than we've been taught - and we have the capacity to use it with love, together, for real change. The device in your pocket - the one pulling you into comparison and noise - can become a vehicle for your heart's deepest intention.",
+    "text6": "That's Prosper."
+  },
+  "template": "<div class=\"gx\">\n  <p class=\"gx__i gx__i1\">{{text1}}</p>\n  <h2 class=\"gx__i gx__i2\">{{text2}}</h2>\n  <p class=\"gx__i gx__i3\">{{text3}}</p>\n  <p class=\"gx__i gx__i4\">{{text4}}</p>\n  <p class=\"gx__i gx__i5\">{{text5}}</p>\n  <p class=\"gx__i gx__i6\">{{text6}}</p>\n</div>",
+  "css": ":scope { width: min(100%, 980px); margin-inline: auto; }\n.gx { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); grid-auto-rows: minmax(8px, auto); column-gap: 0; }\n.gx__i { position: relative; z-index: 1; margin: 0; min-width: 0; overflow-wrap: break-word; }\n.gx__i p { margin: 0; }\n.gx__p { z-index: 0; }\n.gx__img picture, .gx__img img { display: block; width: 100%; height: 100%; object-fit: cover; }\n.gx__i1 { grid-column: 12 / span 2; grid-row: 1 / span 3; font-family: var(--os-font-heading); font-size: 15px; font-weight: 400; line-height: 1.67; letter-spacing: 0.213em; text-transform: uppercase; color: var(--os-color-text); }\n.gx__i2 { grid-column: 1 / span 24; grid-row: 9 / span 17; font-family: var(--os-font-heading); font-size: 16px; font-weight: 400; line-height: 1; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n.gx__i3 { grid-column: 3 / span 19; grid-row: 29 / span 8; font-family: var(--os-font-heading); font-size: 17px; font-weight: 400; line-height: 1.29; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n.gx__i4 { grid-column: 3 / span 19; grid-row: 39 / span 6; font-family: var(--os-font-heading); font-size: 17px; font-weight: 400; line-height: 1.29; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n.gx__i5 { grid-column: 3 / span 19; grid-row: 47 / span 8; font-family: var(--os-font-heading); font-size: 17px; font-weight: 400; line-height: 1.29; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n.gx__i6 { grid-column: 3 / span 19; grid-row: 57 / span 3; font-family: var(--os-font-heading); font-size: 17px; font-weight: 400; line-height: 1.29; letter-spacing: 0em; text-align: center; color: var(--os-color-text); }\n@media (max-width: 767px) {\n  .gx { display: flex; flex-direction: column; gap: var(--os-space-sm); }\n  .gx__i1 { font-family: var(--os-font-heading); font-size: 14px; }\n  .gx__i2 { font-family: var(--os-font-heading); font-size: 14px; }\n  .gx__i3 { font-family: var(--os-font-heading); font-size: 14px; }\n  .gx__i4 { font-family: var(--os-font-heading); font-size: 14px; }\n  .gx__i5 { font-family: var(--os-font-heading); font-size: 14px; }\n  .gx__i6 { font-family: var(--os-font-heading); font-size: 14px; }\n}",
+  "section": {
+    "width": "wide"
+  }
+}

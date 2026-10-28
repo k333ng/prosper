@@ -1,0 +1,237 @@
+{
+  "id": "pg_fqdxpq5qzc",
+  "title": "SERVE & GROW YOUR AUDIENCE",
+  "slug": "form-influencer1",
+  "seo": {
+    "title": "Prosper - Prayers and Intentions App",
+    "description": "Prosper blends energetic art, neural audio and AI guidance into a sacred space where you align will, elevate consciousness and practise intention daily.",
+    "image": "media/2026/10/vvfycatnvewohjvbgcubs70m4-8aqh.webp"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_bjrjbqtmn3",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_37tg1y7jav",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FOR INFLUENCERS"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_drg9mha1kv",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "SERVE & GROW YOUR AUDIENCE",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "SERVE & GROW YOUR AUDIENCE",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "SERVE & GROW YOUR AUDIENCE",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_atvhb6b97s",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Share your wisdom and practices to reach aligned souls and offer followers a new way to connect with your work."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Share your wisdom and practices to reach aligned souls and offer followers a new way to connect with your work."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_270rffcv96",
+          "type": "form",
+          "v": 1,
+          "fields": {
+            "form": {
+              "id": "frm_e5akxcbev0",
+              "name": "Contact form",
+              "fields": [
+                {
+                  "name": "first_name_first_name",
+                  "label": "First name* First name",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "Jane"
+                },
+                {
+                  "name": "last_name_last_name",
+                  "label": "Last Name* Last Name",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "Smith"
+                },
+                {
+                  "name": "how_can_we_reach_you_how_can_we_reac",
+                  "label": "How can we reach you?* How can we reach you?* How can we reach you?",
+                  "required": true,
+                  "type": "email",
+                  "placeholder": "jane@prosper.love"
+                },
+                {
+                  "name": "your_website_https_url_needed_your_w",
+                  "label": "Your website (https://URL needed) Your website (https://URL needed)",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "https://www.prosper.love"
+                },
+                {
+                  "name": "your_primary_social_media_https_url_",
+                  "label": "Your Primary Social Media (https://URL needed)* Your Primary Social Media (https://URL needed)",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "https:/www.instagram.com/nowweprosper"
+                },
+                {
+                  "name": "primary_social_media_approx_follower",
+                  "label": "Primary social media approx follower count (number)* Primary social media approx followers* Primary soacial approx foll…",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "10,000"
+                },
+                {
+                  "name": "your_secondary_social_media_https_ur",
+                  "label": "Your Secondary Social Media (https://URL needed)* Your Secondary Social Media (https://URL needed)",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "https:/www.facebook.com/nowweprosper"
+                },
+                {
+                  "name": "secondary_social_media_approx_follow",
+                  "label": "Secondary social media approx follower count (number)* Secondary social media approx followers * Secondary social appro…",
+                  "required": true,
+                  "type": "text",
+                  "placeholder": "5,000"
+                },
+                {
+                  "name": "tell_us_about_yourself_your_mission_",
+                  "label": "Tell us about yourself, your mission, and what draws you to Prosper* Tell us about yourself, your mission, and what dra…",
+                  "required": true,
+                  "type": "textarea",
+                  "placeholder": "Type your message..."
+                }
+              ],
+              "submitLabel": "SUBMIT",
+              "success": {
+                "type": "message",
+                "message": "Thank you! We'll be in touch soon."
+              },
+              "notifyOwner": true
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_v1e8hpd3jd",
+      "preset": "component/imported-form-influencer1-1@1",
+      "label": "Bring your people into practice",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_zrmm1mmjw9",
+          "type": "component/imported-form-influencer1-1",
+          "v": 1,
+          "fields": {
+            "text1": "FOR TEACHERS, GUIDES & COMMUNITY LEADERS",
+            "text2": "Bring your people into practice",
+            "text3": "Whether you lead a small circle or a movement, Prosper lets you create content for your community. Craft Praylists around your teaching. Design practices aligned with your mission. Give your people a space to practice together — not just learn, but live what you're pointing toward.",
+            "text7": "Extend your impact",
+            "text8": "Gather your tribe",
+            "text9": "Earn from your wisdom",
+            "text10": "Your teachings become daily practice, not just occasional workshops.",
+            "text11": "Your community practices together, strengthening the field you're building.",
+            "text12": "Premium content, subscriptions, or free offerings — your choice.",
+            "label13": "APPLY TO LEAD"
+          }
+        }
+      ]
+    }
+  ]
+}

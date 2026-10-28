@@ -1,39 +1,33 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_z6khzrkrpp",
+  "id": "pg_dy6gfgjsq0",
   "title": "Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "Prosper is being set up.",
-    "noindex": true
+    "title": "Prosper",
+    "description": "Prosper helps you find and create intentions that truly resonate with who you are and how you want to participate in the beautiful game of being human.",
+    "image": "media/2026/10/cwnnqid2spd9gasyr0uowxzbnk-k3je.jpg"
   },
   "sections": [
     {
-      "id": "sec_fv1yhfdh8g",
+      "id": "sec_nm9qr7shfk",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        },
-        "align": "center",
-        "width": "narrow"
+        }
       },
       "style": {
-        "colorTheme": "light",
-        "padding": {
-          "d": "xl",
-          "m": "lg"
-        },
-        "minHeight": {
-          "d": "70vh"
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
         }
       },
       "blocks": [
         {
-          "id": "blk_amestsfxng",
+          "id": "blk_4d1hcs53ar",
           "type": "text",
           "v": 1,
           "fields": {
@@ -48,7 +42,80 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Prosper"
+                      "text": "You are source."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You are"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "source."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You are source."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Act like it."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Act like it."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Act like it."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You're already creating your reality. Prosper makes it intentional."
                     }
                   ]
                 }
@@ -57,7 +124,423 @@
           }
         },
         {
-          "id": "blk_ccftn4qz22",
+          "id": "blk_wn5fscxax4",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "your@email.com",
+            "buttonLabel": "Enter the Field",
+            "successMessage": "Almost there — check your inbox to confirm your subscription."
+          },
+          "variant": "stacked"
+        },
+        {
+          "id": "blk_86frfzbrg5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Early access opens Fall 2026."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Early access opens Fall 2026."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Early access opens Fall 2026."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "hero"
+    },
+    {
+      "id": "sec_d8r76kck4m",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_8t8zr9sygg",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "PLAY THE BEST GAME ON EARTH"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "PLAY THE BEST"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "GAME ON EARTH"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You've been playing your whole life — without knowing the rules."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You've been playing your whole life — without knowing the rules."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The ancients said it simply: as within, so without."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Life mirrors how you see yourself. Your thoughts shape your world. Your beliefs become your reality."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prosper helps you shift your identity toward what's possible — and train your mind to follow your heart's intention."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "With your heart and mind united, you can create anything."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_s1k18b0z2t",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_wnmhvvywwd",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/hqnobbmawnh2tigugtpaqbl2mna-5ax9.webp",
+              "alt": "",
+              "width": 1056,
+              "height": 1984,
+              "mediaId": "med_5ax9c41k6b"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_2h0tyfcmgc",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/hqnobbmawnh2tigugtpaqbl2mna-5ax9.webp",
+              "alt": "",
+              "width": 1056,
+              "height": 1984,
+              "mediaId": "med_5ax9c41k6b"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_9cv0n71t06",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_akjb1htbe7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "THE PRACTICE"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "how-it-works"
+    },
+    {
+      "id": "sec_gqm78wpqt5",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ydtvdj055v",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Intentions and affirmations that"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "actually land."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_8g1653ytj4",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ztaeq7jz5t",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Intentions and affirmations that actually land."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Generic affirmations can backfire —"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "your subconscious knows when something doesn't fit."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prosper helps you find and create intentions that truly resonate with who you are and how you want to participate in the beautiful game of being human."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This isn't just about planting thoughts. It's about feeling your intention so fully — in your heart, in your body — that your outer world begins to mirror those intentions."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_fvkdze1yfz",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/7cs5krs91ooy1t42nfgk4kvyz6o-rw81.png",
+              "alt": "",
+              "width": 1522,
+              "height": 934,
+              "mediaId": "med_rw81wgnp62"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_dggf0y1169",
           "type": "text",
           "v": 1,
           "fields": {
@@ -69,11 +552,1260 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "This site is being set up. Please check back soon."
+                      "text": "DISCOVER YOUR"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "INTENTIONS"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "DISCOVER YOUR INTENTIONS"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Write what matters to you — or adopt intentions others have already strengthened in the field. Find the ones that make your heart say "
+                    },
+                    {
+                      "type": "text",
+                      "text": "yes. ",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "Optionally record them in your own voice."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Clarify what matters. Give it language."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Write the reality you're stepping into - with psychological depth and spiritual resonance."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "DROP INTO"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "COHERENCE"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "DROP INTO COHERENCE"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vocal guidance, neural-effect soundscapes, and living art bring your heart and mind into alignment. Be present, and let them guide you out of your limitations, into possibility."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vocal guidance, neural-effect soundscapes, and living art bring your heart and mind into alignment. Be present, and let them guide you out of your limitations, into possibility."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPEAK IT AND"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FEEL IT"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPEAK IT AND FEEL IT"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Speak your intentions aloud, or hear your own voice speaking them to you. Feel them land in your body, not just your head. Your voice, your feeling, and your imagination make it real."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "LET IT"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "GROW"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "LET IT GROW"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Come back tomorrow. Repetition rewires the brain and strengthens the field around your intention. What starts as a practice becomes who you are — and your reality begins to reflect it."
                     }
                   ]
                 }
               ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_zx5pevetza",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_gtvz5hdhf9",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/10/n0gskagy94drruz1cbyhdpniwxy-6c9a.webp",
+              "alt": "BG",
+              "width": 1000,
+              "height": 791,
+              "mediaId": "med_6c9a2fvas8"
+            },
+            "aspect": "1:1",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_f4w28qe0ag",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "HOW IT FEELS",
+            "level": "h4",
+            "size": "auto"
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_xzhx89e5sk",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "HOW IT FEELS"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "HOW IT FEELS"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_b24372b9k8",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "A practice that feels as good as it works.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "A practice that feels as good as it works.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Prosper isn't a chore. It's a space you'll look forward to entering.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Prosper isn't a chore. It's a space you'll look forward to entering.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "2",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_s62bz7zj8w",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Neural-effect audio that guides your state. Art that draws you into felt connection with the field. Your own voice speaking intentions that resonate with your heart's deepest truth."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Whether you're easing into the first moments of your morning with gentle affirmations or doing more intensive mental rehearsal — it all works. And it feels good. Sometimes quietly good. Sometimes tears-of-gratitude, heart-blasted-open good. The more focus and feeling you bring, the deeper it goes."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Neural-effect audio that guides your state. Art that draws you into felt connection with the field. Your own voice speaking intentions that resonate with your heart's deepest truth."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Whether you're easing into the first moments of your morning with gentle affirmations or doing more intensive mental rehearsal — it all works. And it feels good. Sometimes quietly good. Sometimes tears-of-gratitude, heart-blasted-open good. The more focus and feeling you bring, the deeper it goes."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Neural-effect audio that guides your state. Art that draws you into felt connection with the field. Your own voice speaking intentions that resonate with your heart's deepest truth."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Whether you're easing into the first moments of your morning with gentle affirmations or doing more intensive mental rehearsal — it all works. And it feels good. Sometimes quietly good. Sometimes tears-of-gratitude, heart-blasted-open good. The more focus and feeling you bring, the deeper it goes."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_2v6mgwvqec",
+      "preset": "component/imported-home-5@1",
+      "label": "pro • sper",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_51kx8xzd1s",
+          "type": "component/imported-home-5",
+          "v": 1,
+          "fields": {
+            "text1": "pro • sper",
+            "text2": "Latin: pro (in favor of) + sper (wish, hope, aspiration) For life to accord with your wishes and hopes."
+          }
+        }
+      ],
+      "anchor": "final-cta"
+    },
+    {
+      "id": "sec_60pme5mq0f",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_0bbwf1m686",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "Ready to step into the field?",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_b7eqqa6k9q",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "your@email.com",
+            "buttonLabel": "Enter the Field",
+            "successMessage": "Almost there — check your inbox to confirm your subscription."
+          },
+          "variant": "stacked"
+        },
+        {
+          "id": "blk_he2nsnrmjj",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Beta launching Spring 2026. Founding practitioners shape what's possible.",
+            "level": "h4",
+            "size": "auto",
+            "subheading": "Beta launching Spring 2026. Founding practitioners shape what's possible."
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_ct1f9ggvaz",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Beta launching Spring 2026. Founding practitioners shape what's possible."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "final-cta-1"
+    },
+    {
+      "id": "sec_zwj3fb3hf8",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/sfbtglonntglsobrdogqugvbvg-zrap.webp"
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [],
+      "anchor": "final-cta-2"
+    },
+    {
+      "id": "sec_qxg9d9bwz2",
+      "preset": "component/imported-home-8@1",
+      "label": "The science",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_5sq0z000aa",
+          "type": "component/imported-home-8",
+          "v": 1,
+          "fields": {
+            "image1": {
+              "src": "media/2026/10/bru7wrn1ycl0ozdoybhwb5wnji-4163.png",
+              "alt": "BG",
+              "width": 512,
+              "height": 336,
+              "mediaId": "med_4163nc9z8h"
+            },
+            "text2": "THE SCIENCE",
+            "text3": "This isn't wishful thinking",
+            "text4": "Prosper is built on decades of peer-reviewed research. Heart-brain coherence. Neuroplasticity. The measurable effects of focused intention — and the voice as a vehicle for embedding it. The science doesn't ask you to believe. It shows you why what you just felt is real.",
+            "label5": "EXPLORE THE RESEARCH",
+            "link5": {
+              "type": "page",
+              "page": "pg_cyb6fjw0da"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_4kk3p1751j",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_s0kxb64w8t",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "THE FIELD",
+            "level": "h4",
+            "size": "auto"
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_9y21xkwzyq",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "THE FIELD"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_ge0fpyx8wd",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "The best part of this game? Everybody wins.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "The best part of this game? Everybody wins.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "The best part of this game? Everybody wins.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_a9spjw0k9t",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Prosper isn't just an app. It's a living field of intention — held by every heart practicing in it."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "When you practice for yourself, you rise. When you hold intention for others — for their healing, their joy, their liberation — the field gives back to you. Not because you asked. Because that's how it works."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "And when we practice together — holding shared intentions for the world we actually want — something shifts that can't shift any other way."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I win when you win. We all win when we play together. This is the game worth playing."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "how-it-works-1"
+    },
+    {
+      "id": "sec_np6tq32v4k",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_xm3vxgrg6c",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "TESTIMONIALS"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "TESTIMONIALS"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "TESTIMONIALS"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"Massive transformational shifts have occurred since I started using it. It feels like a very aligned way to use technology that honors our innate spiritual abilities rather than dampening or distracting from them.\"",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"Massive transformational shifts have occurred since I started using it. It feels like a very aligned way to use technology that honors our innate spiritual abilities rather than dampening or distracting from them.\"",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vanessa Marina Joya"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Teacher, Nayarit, México"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Vanessa Marina Joya"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Teacher, Nayarit, México"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"I thought it would be like guided meditation. It wasn't. Within the first few minutes I felt my heart open in way I haven't felt in years. I cried. Then I came back the next day.\"",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "\"I thought it would be like guided meditation. It wasn't. Within the first few minutes I felt my heart open in way I haven't felt in years. I cried. Then I came back the next day.\"",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Breanna Shannon"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Mother, Real Estate Broker"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Breanna Shannon"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Mother, Real Estate Broker"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_63dcxwym7t",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "color",
+          "color": "#000000"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_91m8b90971",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "BE AMONG THE FIRST"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "BE AMONG THE FIRST"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The early ones shape what this becomes."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The early ones shape what this becomes."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The early ones shape what this becomes."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The founding practitioners don't just use Prosper — they seed the field. Your intentions, your love, your presence becomes part of what everyone who follows will step into."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We're not looking for everyone. We're looking for the ones who are ready to play a deeper game."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The founding practitioners don't just use Prosper — they seed the field. Your intentions, your love, your presence becomes part of what everyone who follows will step into."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We're not looking for everyone. We're looking for the ones who are ready to play a deeper game."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_a5x6xphpjy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_fe9w3vvk90",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "You're ready. We're ready. Let's begin.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "You're ready. We're ready. Let's begin.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              },
+              {
+                "heading": "You're ready. We're ready. Let's begin.",
+                "body": {
+                  "type": "doc",
+                  "content": []
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          },
+          "style": {
+            "typography": {
+              "heading": "h2"
+            }
+          }
+        },
+        {
+          "id": "blk_e8ng42pjxd",
+          "type": "newsletter",
+          "v": 1,
+          "fields": {
+            "askName": false,
+            "placeholder": "your@email.com",
+            "buttonLabel": "Enter the Field",
+            "successMessage": "Almost there — check your inbox to confirm your subscription."
+          },
+          "variant": "stacked"
+        },
+        {
+          "id": "blk_x3byezzfev",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Beta launching Fall 2026. Founding practitioners shape what's possible.",
+            "level": "h4",
+            "size": "auto",
+            "subheading": "Beta launching Spring 2026. Founding practitioners shape what's possible."
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_wxy3my3hw4",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 4
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Beta launching Fall 2026. Founding practitioners shape what's possible."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1",
+      "anchor": "final-cta-3"
+    },
+    {
+      "id": "sec_pvqghyv2kq",
+      "preset": "component/imported-home-12@1",
+      "label": "Partners",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_jbzbty6xw9",
+          "type": "component/imported-home-12",
+          "v": 1,
+          "fields": {
+            "text1": "PARTNERS",
+            "text2": "IN PROSPERING",
+            "image3": {
+              "src": "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-0zra.png",
+              "alt": "",
+              "width": 512,
+              "height": 370,
+              "mediaId": "med_0zragz9vxr"
+            },
+            "image4": {
+              "src": "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-0zra.png",
+              "alt": "",
+              "width": 512,
+              "height": 370,
+              "mediaId": "med_0zragz9vxr"
+            },
+            "image5": {
+              "src": "media/2026/10/mukzrfzbxcbrtrm7ba4tizmw-0zra.png",
+              "alt": "",
+              "width": 512,
+              "height": 370,
+              "mediaId": "med_0zragz9vxr"
+            },
+            "image6": {
+              "src": "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-104b.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "mediaId": "med_104b0wphxn"
+            },
+            "image7": {
+              "src": "media/2026/10/a3iu5eoveebqletfsc2nylnbik-jj5k.png",
+              "alt": "",
+              "width": 512,
+              "height": 198,
+              "mediaId": "med_jj5kd4h0fa"
+            },
+            "image8": {
+              "src": "media/2026/10/nspdiaujeoapcbuiuqo87vdzauq-pc8f.svg",
+              "alt": "",
+              "width": 465,
+              "height": 122,
+              "mediaId": "med_pc8f6ad4hy"
+            },
+            "image9": {
+              "src": "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-8hyj.png",
+              "alt": "",
+              "width": 512,
+              "height": 392,
+              "mediaId": "med_8hyjg3mfsm"
+            },
+            "image10": {
+              "src": "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-104b.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "mediaId": "med_104b0wphxn"
+            },
+            "image11": {
+              "src": "media/2026/10/a3iu5eoveebqletfsc2nylnbik-jj5k.png",
+              "alt": "",
+              "width": 512,
+              "height": 198,
+              "mediaId": "med_jj5kd4h0fa"
+            },
+            "image12": {
+              "src": "media/2026/10/nspdiaujeoapcbuiuqo87vdzauq-pc8f.svg",
+              "alt": "",
+              "width": 465,
+              "height": 122,
+              "mediaId": "med_pc8f6ad4hy"
+            },
+            "image13": {
+              "src": "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-8hyj.png",
+              "alt": "",
+              "width": 512,
+              "height": 392,
+              "mediaId": "med_8hyjg3mfsm"
+            },
+            "image14": {
+              "src": "media/2026/10/7q0wminrelpgu1ocedawmsicfu8-104b.png",
+              "alt": "",
+              "width": 512,
+              "height": 512,
+              "mediaId": "med_104b0wphxn"
+            },
+            "image15": {
+              "src": "media/2026/10/a3iu5eoveebqletfsc2nylnbik-jj5k.png",
+              "alt": "",
+              "width": 512,
+              "height": 198,
+              "mediaId": "med_jj5kd4h0fa"
+            },
+            "image16": {
+              "src": "media/2026/10/nspdiaujeoapcbuiuqo87vdzauq-pc8f.svg",
+              "alt": "",
+              "width": 465,
+              "height": 122,
+              "mediaId": "med_pc8f6ad4hy"
+            },
+            "image17": {
+              "src": "media/2026/10/tbhpwxqpn12dva0glvsqbrnkna-8hyj.png",
+              "alt": "",
+              "width": 512,
+              "height": 392,
+              "mediaId": "med_8hyjg3mfsm"
             }
           }
         }
